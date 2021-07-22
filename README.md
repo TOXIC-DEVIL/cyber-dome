@@ -1,4 +1,5 @@
-# police.github.io
+# Prank Website
+
 A Prank Website 😂
 
 ## Prank Your Foolish Friends Now! 😜
